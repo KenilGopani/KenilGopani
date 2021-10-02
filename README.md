@@ -2,19 +2,9 @@
 
 ## <div align="center">👋Hi,There. I'm Kenil Gopani✨<br><div>
   
-  
-  
-  
-  
-
-
-
-  
-  
-  
 ## About
 - Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
-- Programming launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MEAN stack`
+- Programming launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MERN stack`
 
   
 ## Skills
@@ -43,19 +33,22 @@
   
   
 # Connect with me #
-  
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishita__0202" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kenil-gopani-139020205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ishita-chauhan-3571b81a5/" height="30" width="40" /></a>
 <a href="https://www.instagram.com//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="if_plants_can_talk_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gopupatel600" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ishita_2" height="30" width="40" /></a></p>
   
+
+  
+  
+  
+  
+  
  <!-- ## Social Media
 [![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/kenil-gopani-139020205/)
 [![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/)
 -->
-  
-  
   
   <!--
 # Competitive Coding Profile #
