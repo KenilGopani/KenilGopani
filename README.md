@@ -3,10 +3,12 @@
 ## <div align="center">👋Hi,There. I'm Kenil Gopani✨<br><div>
   
 
+## About
+- Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
+- Programming launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MEAN stack`
 
+  
 ## Skills
-
-
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
 <code><img title="CSS" height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" /></code>
 <code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
@@ -23,12 +25,21 @@
 <code> <img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
   
   
-# Statistics #
+  
+# Github Statistics #
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KenilGopani&theme=tokyonight&show_icons=true&count_private=true)
+![Kenil streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KenilGopani) 
+![Kenil top langs](https://github-readme-stats.vercel.app/api/top-langs?username=KenilGopani&show_icons=true&locale=en&layout=compact)  
+<!--   ![Kenil's trophy](https://github-profile-trophy.vercel.app/?username=KenilGopani&margin-w=15)  -->
   
   
-# Most Used Language #
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KenilGopani)
+## Social Media
+[![Linkedln](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://www.linkedin.com/in/kenil-gopani-139020205/)
+[![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/)
+<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenil-gopani-139020205/) -->
+
+  
+  
   
   <!--
 # Competitive Coding Profile #
@@ -39,13 +50,7 @@
 # 📫 How to reach me : #
 ### 💌Mail me [ardeshnabhavik@gmail.com]()
 -->
-
-
-# Social Media #
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenil-gopani-139020205/)
-
 <!--
-
 
 Here are some ideas to get you started:
 
