@@ -39,6 +39,7 @@
 <a href="https://www.instagram.com//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="if_plants_can_talk_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gopupatel600" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ishita_2" height="30" width="40" /></a></p>
   
+![](https://komarev.com/ghpvc/?username=KenilGopani)
 
   
   
@@ -56,8 +57,9 @@
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/arvik_123)
 
 # 📫 How to reach me : #
-### 💌Mail me [ardeshnabhavik@gmail.com]()
+### 💌Mail me [arde@gmail.com]()
 -->
+<!-- [Resume.pdf](https://github.com/harshbhalala-04/harshbhalala-04/files/7149640/Harsh.Bhalala.CV.pdf) -->
   
 <!--
 Here are some ideas to get you started:
@@ -71,3 +73,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  
+  
+  
+ 
+
+
+
+  
