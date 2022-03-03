@@ -4,7 +4,7 @@
   
 ## About
 - Pursuing B. Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
-- Programming launguage skill : `C`, `C++`, `Python (Basic)`, `Javascript` and `MERN stack`
+- Programming launguage skill : `C`, `C++`, `Python`, `Javascript` and `MERN stack`
 
   
 ## Skills
