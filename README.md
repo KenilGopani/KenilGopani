@@ -17,10 +17,9 @@
 <code> <img title="expressjs" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/></code>
 <code> <img title="mongodb" height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code> <img title="Python" height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> <code>
+<code> <img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
 <code> <img title="Django" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> <code>
 <code> <img title="mysql" height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
-<code> <img title="PHP" height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/></code>
-<code> <img title="git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
 <code> <img title="linux" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
   
   
