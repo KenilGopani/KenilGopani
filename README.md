@@ -60,7 +60,7 @@
 <a href="https://kenilgopani.me/blog"><img src="https://img.shields.io/badge/-kenilgopani.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kenil-gopani-139020205/"><img src="https://img.shields.io/badge/Kenil%20Gopani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kenilgopani600@gmail.com"><img src="https://img.shields.io/badge/-kenilgopani600@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/imkenil"><img src="https://img.shields.io/badge/-kenilgopani-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/kenilgopani"><img src="https://img.shields.io/badge/-kenilgopani-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/kenilgopani"><img src="https://img.shields.io/badge/-kenilgopani-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/imkenil.21"><img src="https://img.shields.io/badge/-imkenil.21-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/kenilgopani21/"><img src="https://img.shields.io/badge/-kenilgopani21-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://twitter.com/KenilG21"><img src="https://img.shields.io/badge/-https.kEniL.21-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
