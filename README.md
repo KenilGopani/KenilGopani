@@ -2,13 +2,30 @@
 
 <h1 align="center">Hi <img src="https://github.com/KenilGopani/KenilGopani/blob/main/Hi.gif" width="30px">, I am Kenil Gopani </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> I have just kickstarted my career as a software developer. I'm a passionate learner who's always willing to learn and work across technologies. <br> I love to explore new technologies and try to solve real-life problems 🚀</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKenilGopani%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenilGopani&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KenilGopani&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KenilGopani&theme=chartreuse-dark"></p>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+  
+<tr border="none">
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KenilGopani&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
+  <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KenilGopani&theme=chartreuse-dark"> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenilGopani&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
+</tr>
+</table>
+</p>        
+<!--- stats (end) -->
 
 ### 🛠 &nbsp;Tech Stack
 
