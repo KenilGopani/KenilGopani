@@ -14,8 +14,8 @@
   
 <tr border="none">
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenilGopani&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
-  <br></br>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KenilGopani&count_private=true&show_icons=true&locale=en&&theme=chartreuse-dark" alt="KenilGopani" /></p>
+  </br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KenilGopani&theme=chartreuse-dark"> 
 </td>
 <td width="50%" align="center">
