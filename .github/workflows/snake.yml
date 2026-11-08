@@ -1,0 +1,32 @@
+# Place this file at .github/workflows/snake.yml in the KenilGopani/KenilGopani repo.
+# It generates the contribution-grid snake SVG once a day and pushes it to the
+# `output` branch, which the README's <picture> block reads from.
+# After adding it, run it once manually (Actions tab -> Generate Snake -> Run workflow).
+# Note: GitHub disables scheduled workflows after 60 days without repo activity.
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: KenilGopani
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
